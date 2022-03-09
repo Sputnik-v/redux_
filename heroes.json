@@ -7,40 +7,45 @@
       "element": "fire"
     },
     {
-      "id": "95e0b3db-d864-4541-8948-af7650ef2681",
-      "name": "Igor Tronin",
-      "description": "Все я пошел",
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
       "element": "water"
     },
     {
-      "id": "39266627-4243-41d5-988f-30459755b401",
+      "id": "10c6ce60-4513-407f-be79-82e85fef0da3",
       "name": "pegas007",
-      "description": "iioooiiioooiiiooo",
-      "element": "water"
+      "description": "fbdshbsnsnsrfn",
+      "element": "wind"
     }
   ],
   "filters": [
     {
+      "id": "all",
       "name": "all",
       "label": "Все",
       "className": "btn-outline-dark"
     },
     {
+      "id": "fire",
       "name": "fire",
       "label": "Огонь",
       "className": "btn-danger"
     },
     {
+      "id": "water",
       "name": "water",
       "label": "Вода",
       "className": "btn-primary"
     },
     {
+      "id": "wind",
       "name": "wind",
       "label": "Ветер",
       "className": "btn-success"
     },
     {
+      "id": "earth",
       "name": "earth",
       "label": "Земля",
       "className": "btn-secondary"
